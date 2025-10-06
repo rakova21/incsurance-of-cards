@@ -66,7 +66,7 @@
 
 User-flow диаграмма для роли «Системный администратор» представлена на рисунке 1.
 
- <img width="547" height="424" alt="image" src="https://github.com/user-attachments/assets/471bec14-d3b8-4494-845e-59ef725c966c" />
+<img width="992" height="771" alt="image" src="https://github.com/user-attachments/assets/ee82cc74-85f0-4621-bc2f-88210728a7ec" />
 
 Рисунок 1 – User-flow диаграмма для роли «Системный администратор»
 
