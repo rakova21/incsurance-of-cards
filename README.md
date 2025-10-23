@@ -57,7 +57,8 @@
 
 На рисунке представлена физическая модель базы данных.
 
-<img width="565" height="421" alt="image" src="https://github.com/user-attachments/assets/388f5e5f-f1f9-4c22-9fd2-373d3bef5e3c" />
+<<img width="957" height="781" alt="image" src="https://github.com/user-attachments/assets/7f8391a2-2100-4644-bf54-2706f893b421" />
+
 
 ---
 
