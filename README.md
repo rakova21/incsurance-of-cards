@@ -429,10 +429,10 @@ public class CustomBearerTokenAuthenticationEntryPoint implements Authentication
 spring :
     servlet :
         multipart :
-            max-file-size : 10MB
+            max-file-size :    10MB
             max-request-size : 10MB
     datasource :
-        url : jdbc:mysql://localhost:3306/sure
+        url :      jdbc:mysql://localhost:3306/sure
         username : root
         password : root
     jpa :
@@ -442,6 +442,7 @@ spring :
 
 server :
     port : 8080
+
 
 В начальной части файла задаются параметры, определяющие правила обработки загружаемых данных. В разделе spring.servlet.multipart установлены значения параметров «max-file-size» и «max-request-size», ограничивающие максимальный размер отдельного файла и всего запроса. Эти настройки обеспечивают корректную работу механизма загрузки данных и предотвращают чрезмерную нагрузку на сервер.
 Следующий блок конфигурации – spring.datasource – содержит сведения, необходимые для подключения приложения к базе данных. Параметр «url» указывает адрес базы данных MySQL и имя используемой схемы. Параметры «username» и «password» определяют учётные данные, с помощью которых устанавливается соединение. Данный набор настроек обеспечивает возможность выполнения операцій чтения, записи и обработки данных.
